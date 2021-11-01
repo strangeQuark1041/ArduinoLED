@@ -1,0 +1,21 @@
+---
+Language: Cpp
+AlignEscapedNewlines: Left
+AlignConsecutiveAssignments: 'true'
+AllowShortBlocksOnASingleLine: 'true'
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: Always
+AllowShortLambdasOnASingleLine: All
+AllowShortLoopsOnASingleLine: 'true'
+AlwaysBreakTemplateDeclarations: 'Yes'
+BinPackParameters: 'false'
+BreakBeforeBraces: Allman
+BreakConstructorInitializers: BeforeColon
+BreakInheritanceList: BeforeColon
+IndentWidth: '4'
+SortIncludes: 'false'
+PointerAlignment: 'Left'
+
+...
+
